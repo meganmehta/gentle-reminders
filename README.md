@@ -1,6 +1,8 @@
 # gentle-reminders
 a browser extension inspired by "we're not really strangers"
 
+<img src="gentlereminders.png" alt=" ">
+
 how to add this chrome extension to your browser: 
 1. clone this repo! 
 2. go to chrome://extensions/ 
